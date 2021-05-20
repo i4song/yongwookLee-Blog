@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yongwookLee-Blog/static/css/main.f8117d08.chunk.css",
-    "main.js": "/yongwookLee-Blog/static/js/main.e16794f0.chunk.js",
-    "main.js.map": "/yongwookLee-Blog/static/js/main.e16794f0.chunk.js.map",
+    "main.js": "/yongwookLee-Blog/static/js/main.83e3b394.chunk.js",
+    "main.js.map": "/yongwookLee-Blog/static/js/main.83e3b394.chunk.js.map",
     "runtime-main.js": "/yongwookLee-Blog/static/js/runtime-main.8b044a59.js",
     "runtime-main.js.map": "/yongwookLee-Blog/static/js/runtime-main.8b044a59.js.map",
     "static/js/2.3aa3e761.chunk.js": "/yongwookLee-Blog/static/js/2.3aa3e761.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8b044a59.js",
     "static/js/2.3aa3e761.chunk.js",
     "static/css/main.f8117d08.chunk.css",
-    "static/js/main.e16794f0.chunk.js"
+    "static/js/main.83e3b394.chunk.js"
   ]
 }
