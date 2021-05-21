@@ -52,16 +52,34 @@ export default function Home() {
   return (
     <Container>
       <Tree name="🥑 Yongwook Lee" defaultOpen>
-        <Tree name="Introduction" />
-        <Tree name="react-spring" >
-          <Link to="/react-spring/Card">
-            <Tree name="Card"/>
-          </Link>
+        <Tree name="Introduction">
+          <Tree name="SKKU Software 9th"/>
+          <Tree name="Later equals never."/>
+          <Tree name="Currently Studying">
+            <Tree name="front-end development">
+              <Tree name="React"/>
+              <Tree name="Next.js"/>
+              <Tree name="Javascript"/>
+              <Tree name="Typescript"/>
+            </Tree>
+            <Tree name="interactive development">
+              <Tree name="HTML Canvas"/>
+              <Tree name="SVG"/>
+              <Tree name="GLSL"/>
+            </Tree>
+            <Tree name="Graphic Design, UI/UX Design">
+              <Tree name="Adobe Illustrator"/>
+              <Tree name="Figma"/>
+              <Tree name="Adobe XD"/>
+              <Tree name="Adobe After Effects"/>
+            </Tree>
+          </Tree>
         </Tree>
-        <Tree name="react-spring" >
-          <Link to="/react-spring/Card">
-            <Tree name="Card"/>
-          </Link>
+        <Tree name="Special" >
+          <Tree name={<a href="https://github.com/yongwookLee" target='_blank' rel="noreferrer">Github</a>}/>
+          <Tree name={<a href="https://www.linkedin.com/in/yongwook-lee-a78178137/" target='_blank' rel="noreferrer">LinkedIn</a>}/>
+          <Tree name={<a href="https://velog.io/@dnr6054" target='_blank' rel="noreferrer">velog</a>}/>
+          <Tree name={<a href="https://devpost.com/yongwookLee" target='_blank' rel="noreferrer">Devpost</a>}/>
         </Tree>
         <Tree name="react-spring" >
           <Link to="/react-spring/Card">
