@@ -81,11 +81,11 @@ export default function Home() {
           <Tree name={<a href="https://velog.io/@dnr6054" target='_blank' rel="noreferrer">velog</a>}/>
           <Tree name={<a href="https://devpost.com/yongwookLee" target='_blank' rel="noreferrer">Devpost</a>}/>
         </Tree>
-        <Tree name="react-spring" >
+        {/* <Tree name="react-spring" >
           <Link to="/react-spring/Card">
             <Tree name="Card"/>
           </Link>
-        </Tree>
+        </Tree> */}
       </Tree>
     </Container>
   )
