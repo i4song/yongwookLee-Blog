@@ -77,7 +77,7 @@ export default function Home() {
         </Tree>
         <Tree name="Special" >
           <Tree name={<a href="https://github.com/i4song" target='_blank' rel="noreferrer">Github</a>}/>
-          <Tree name={<a href="https://www.linkedin.com/in/yongwook-lee-a78178137/" target='_blank' rel="noreferrer">LinkedIn</a>}/>
+          <Tree name={<a href="https://www.linkedin.com/in/i4song/" target='_blank' rel="noreferrer">LinkedIn</a>}/>
           <Tree name={<a href="https://velog.io/@dnr6054" target='_blank' rel="noreferrer">velog</a>}/>
           <Tree name={<a href="https://devpost.com/yongwookLee" target='_blank' rel="noreferrer">Devpost</a>}/>
         </Tree>
